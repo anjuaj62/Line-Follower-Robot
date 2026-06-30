@@ -25,4 +25,5 @@ This keeps the robot following the line continuously.
 
 **Sensor**
 - Pin 2 → IR Sensor (Input)
-![Demo](images/demo.gif)
+<img width="400" height="533" alt="line-follower-demo" src="https://github.com/user-attachments/assets/4ca5e9fc-ff1c-47e5-80e9-c745cf748c08" />
+
